@@ -10,17 +10,33 @@ Solomon Durand thrives at the intersection of creativity and precision. As a Mec
 
 * Vanderbilt University
   * BS Mechanical Engineering
+   * Expected Graduation | Spring 2026
+ 
+## Work Experience
+
+* Vanderbilt University School of Engineering | Independent Researcher
+ * Nashville, TN
+ * August 2023 – May 2024
+
+* Capital City Country Club Engineering Department | Engineering & Technician Intern
+ * Atlanta, GA
+ * May 2024 – August 2024 
 
 ## Technical Skills
 
 Solomon is proficient in utilizing various tools and technologies to bring engineering concepts to life. His expertise spans across both design and fabrication, with hands-on experience in the following:
 
-* SolidWorks
-* Fusion360
-* AutoCAD
-* LabView
-* Milling & Welding
-* Composite Manufacturing
+* General Skills
+ * SolidWorks
+ * Fusion360
+ * AutoCAD
+ * LabView
+ * Milling & Welding
+ * Composite Manufacturing
+
+* Digital Fabrication Tools
+
+## Publications/Awards
 
 ## Creative Endeavors 
 
