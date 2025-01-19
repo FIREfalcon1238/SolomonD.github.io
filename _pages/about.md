@@ -30,4 +30,4 @@ Check out his photography on Instagram: [@eastsidaeye](https://www.instagram.com
 
 Explore his portfolio:
 
-<img src="assets/img/CreativeEndeavorsFlyer.png" alt="Solomon Durand" style="width:200px;"/>
+<img src="/assets/img/CreativeEndeavorsFlyer.png" alt="eastsidaye visual" style="width:200px;"/>
