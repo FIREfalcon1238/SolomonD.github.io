@@ -9,6 +9,7 @@ title: "About Solomon Durand"
 Solomon Durand thrives at the intersection of creativity and precision. As a Mechanical Engineering student, his passions lie in automotive design, technical artistry, and pioneering innovations in engineering manufacturing and solutions. 
 
 * Vanderbilt University
+  
   * BS Mechanical Engineering
    * Expected Graduation | Spring 2026
  
