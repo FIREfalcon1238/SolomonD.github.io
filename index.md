@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/img/Formula1WindTunnel.png
     alt: "Formula One"
     title: "Formula 1 Wind Tunnel"
-    excerpt: "Formula 1 Aston Martin Team Car Under Direct Analysis in Wind Tunnel
+    excerpt: "Formula 1 Aston Martin Team Car Under Direct Analysis in Wind Tunnel"
   - image_path: /assets/img/XometryFDM3DPrinter.jpg
     alt: "3D Printer"
     title: "Xometry 3D Printer"
