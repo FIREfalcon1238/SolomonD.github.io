@@ -1,31 +1,32 @@
 ---
 
-title: "About David Florian"
+title: "About Solomon Durand"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Solomon Durand thrives at the intersection of creativity and precision. As a Mechanical Engineering student, his passions lie in automotive design, technical artistry, and pioneering innovations in engineering manufacturing and solutions. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Mechanical Engineering
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Solomon is proficient in utilizing various tools and technologies to bring engineering concepts to life. His expertise spans across both design and fabrication, with hands-on experience in the following:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+*SolidWorks
+*Fusion360
+*AutoCAD
+*LabView
+*Milling & Welding
+*Composite Manufacturing
 
-## Press 
+## Creative Endeavors 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+In addition to his engineering expertise, Solomon has a proficiency and passion for photography and digital design. His keen eye for detail and creativity shines through his work, capturing stunning visuals and innovative designs.
+
+Check out his photography on Instagram: [@eastsidaeye](https://www.instagram.com/eastsidaeye/)
+Explore his portfolio:
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
