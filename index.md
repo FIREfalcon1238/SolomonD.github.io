@@ -1,17 +1,19 @@
 ---
-title: "Example Web Page"
+title: "Engineering & Design Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/img/Home-Banner-Image.jpeg
   actions:
-    - label: "My Projects"
+    - label: "Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Solomon Durand is a driven Mechanical Engineering student at Vanderbilt University dedicated to pushing the boundaries of his knowledge across a wide range of engineering disciplines. With a passion for innovation, he seamlessly blends technical expertise with creative skills in photography and digital design, elevating his approach to problem-solving and technical artistry.
+
+Focused on the pursuit of excellence in the automotive industry, Solomon's objective is to secure a role where he can apply his engineering acumen and creative vision to design and manufacture cutting-edge automotive solutions."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
+  - image_path: assets/img/FrontPageBannerSolomon.png
+    alt: "Banner"
     title: "Custom CNC Milling Machine"
     excerpt: "Built for fabricating aluminum and steel parts."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
