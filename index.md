@@ -9,7 +9,6 @@ header:
     - label: "Projects"
       url: "/portfolio/"
 excerpt: "Solomon Durand is a driven Mechanical Engineering student at Vanderbilt University dedicated to pushing the boundaries of his knowledge across a wide range of engineering disciplines. With a passion for innovation, he seamlessly blends technical expertise with creative skills in photography and digital design, elevating his approach to problem-solving and technical artistry. Focused on the pursuit of excellence in the automotive industry, he has a vision of designing and manufacturing cutting-edge automotive solutions."
-
 feature_row:
   - image_path: assets/img/Formula1WindTunnel.png
     alt: "Formula One"
