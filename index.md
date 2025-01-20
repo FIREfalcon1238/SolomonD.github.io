@@ -13,15 +13,15 @@ feature_row:
   - image_path: /assets/img/Formula1WindTunnel.png
     alt: "Formula One"
     title: "Formula 1 Wind Tunnel"
-    excerpt: "Formula 1 Aston Martin Team Car Under Direct Analysis in Wind Tunnel"
+    excerpt: "Formula 1 Aston Martin Team Car under direct analysis in Wind Tunnel which is used to optimize the aerodynamics of race cars. It simulates real-world airflow conditions, allowing engineers to study how air moves over the car's surfaces. This helps refine designs to reduce drag, increase downforce, and improve overall performance."
   - image_path: /assets/img/XometryFDM3DPrinter.jpg
     alt: "3D Printer"
     title: "Xometry 3D Printer"
-    excerpt: "A Precise Heavily Equipped 3D Fabricator"
+    excerpt: "A cutting-edge manufacturing tool that offers a wide range of additive manufacturing technologies, enabling precise and efficient part production. Known for its versatility, it supports various materials and processes, such as Fused Deposition Modeling (FDM), Stereolithography (SLA), and Selective Laser Sintering (SLS)."
   - image_path: /assets/img/HondaVTEC Engine.jpg
     alt: "VTEC Engine"
     title: "Honda Four-Cylinder VTEC Engine"
-    excerpt: "The VTEC (Variable Valve Timing and Lift Electronic Control) engine, a high-revving, efficient, and reliable combustion engine that optimizes performance and fuel efficiency"
+    excerpt: "The VTEC (Variable Valve Timing and Lift Electronic Control) engine, a high-revving, efficient, and reliable combustion engine that optimizes performance and fuel efficiency."
 ---
 
 {% include feature_row %}
