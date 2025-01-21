@@ -3,7 +3,7 @@ title: "Syringe Pump"
 excerpt: "DIY Syringe Pump capable of 1 uL/min flow rate up to 10 mL/min"
 header:
   image: /assets/img/Linear Actuator Assembly Render Front.jpg
-  teaser: /assets/img/Syringe Pump CAD & Real Life Comparison.jpg
+  teaser: /assets/img/Linear Actuator Assembly Side View.png
 gallery:
   - url: /assets/img/Syringe Pump Top Down.jpg
     image_path: assets/img/Syringe Pump Top Down.jpg
@@ -11,8 +11,8 @@ gallery:
   - url: /assets/img/Syringe Pump Circuit Diagram.jpg
     image_path: assets/img/Syringe Pump Circuit Diagram.jpg
     alt: "placeholder image 2"
-  - url: /assets/img/Linear Actuator Assembly Side View.png
-    image_path: assets/img/Linear Actuator Assembly Side View.png
+  - url: /assets/img/Syringe Pump CAD & Real Life Comparison.jpg
+    image_path: assets/img/Syringe Pump CAD & Real Life Comparison.jpg
     alt: "placeholder image 3"
   - url: /assets/img/Base of Syringe Pump Drawing.jpg
     image_path: assets/img/Base of Syringe Pump Drawing.jpg
@@ -36,13 +36,13 @@ gallery:
 
 # Features
 
-* **Precise Fluid Delivery: A syringe pump is a motor-driven device designed to deliver fluids with exceptional accuracy and a smooth, non-pulsatile flow. This precision is achieved through a lead screw mechanism connected to the syringe plunger, ensuring consistent fluid administration in medical and laboratory settings.
-* **Versatile and Adjustable: Syringe pumps accommodate a variety of syringe sizes and support variable flow rates, making them suitable for handling a wide range of fluids, including highly viscous substances. The pumps are also designed for quick syringe changes, promoting sterility and reducing the risk of cross-contamination.
-* **Critical Medical Applications: In healthcare, syringe pumps are widely used for the intravenous administration of fluids, medications, and nutrients to patients, maintaining safety and dosage integrity.
-* **Cost Efficiency for Broader Access: With most syringe pumps priced between $500 and $6,000, the development of affordable alternatives is vital. Low-cost syringe pumps can provide essential functionality in resource-limited settings and scenarios where high-end devices are not practical.
+* Precise Fluid Delivery: A syringe pump is a motor-driven device designed to deliver fluids with exceptional accuracy and a smooth, non-pulsatile flow. This precision is achieved through a lead screw mechanism connected to the syringe plunger, ensuring consistent fluid administration in medical and laboratory settings.
+* Versatile and Adjustable: Syringe pumps accommodate a variety of syringe sizes and support variable flow rates, making them suitable for handling a wide range of fluids, including highly viscous substances. The pumps are also designed for quick syringe changes, promoting sterility and reducing the risk of cross-contamination.
+* Critical Medical Applications: In healthcare, syringe pumps are widely used for the intravenous administration of fluids, medications, and nutrients to patients, maintaining safety and dosage integrity.
+* Cost Efficiency for Broader Access: With most syringe pumps priced between $500 and $6,000, the development of affordable alternatives is vital. Low-cost syringe pumps can provide essential functionality in resource-limited settings and scenarios where high-end devices are not practical.
 This combination of precision, versatility, and cost-conscious design makes syringe pumps indispensable tools in both medical and scientific fields.
 
 # CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://a360.co/42rYNsl" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
