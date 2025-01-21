@@ -2,36 +2,18 @@
 title: "Syringe Pump"
 excerpt: "DIY Syringe Pump capable of 1 uL/min flow rate up to 10 mL/min"
 header:
-  image: /assets/img/Linear Actuator Assembly Side View.png
-  teaser: /assets/img/Linear Actuator Assembly Render Front.jpg
+  image: /assets/img/Linear-Actuator-Assembly-Side-View.png
+  teaser: /assets/img/Linear-Actuator-Assembly-Render-Front.jpg
 gallery:
-  - url: /assets/img/Syringe Pump Top Down.jpg
-    image_path: assets/img/Syringe Pump Top Down.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Syringe Pump Circuit Diagram.jpg
-    image_path: assets/img/Syringe Pump Circuit Diagram.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Syringe Pump CAD & Real Life Comparison.jpg
-    image_path: assets/img/Syringe Pump CAD & Real Life Comparison.jpg
-    alt: "placeholder image 3"
-  - url: /assets/img/Base of Syringe Pump Drawing.jpg
-    image_path: assets/img/Base of Syringe Pump Drawing.jpg
-    alt: "placeholder image 4"
-  - url: /assets/img/Top of Syringe Pump Drawing.jpg
-    image_path: assets/img/Top of Syringe Pump Drawing.jpg
-    alt: "placeholder image 5"
-  - url: /assets/img/Syringe Pump End Support.jpg
-    image_path: assets/img/Syringe Pump End Support.jpg
-    alt: "placeholder image 6"
-  - url: /assets/img/Syringe Pump Carriage.jpg
-    image_path: assets/img/Syringe Pump Carriage.jpg
-    alt: "placeholder image 7"
-  - url: /assets/img/Syringe Holder End Support Drawing.jpg
-    image_path: assets/img/Syringe Holder End Support Drawing.jpg
-    alt: "placeholder image 8"
-  - url: /assets/img/Syringe Holder End Support pt 2 Drawing.jpg
-    image_path: assets/img/Syringe Holder End Support pt 2 Drawing.jpg
-    alt: "placeholder image 9"
+  - image_path: assets/img/Syringe-Pump-Top-Down.jpg
+  - image_path: assets/img/Syringe-Pump-Circuit-Diagram.jpg
+  - image_path: assets/img/Syringe-Pump-CAD-and-Real-Life-Comparison.jpg
+  - image_path: assets/img/Base-of-Syringe-Pump-Drawing.jpg
+  - image_path: assets/img/Top-of-Syringe-Pump-Drawing.jpg
+  - image_path: assets/img/Syringe-Pump-End-Support.jpg
+  - image_path: assets/img/Syringe-Pump-Carriage.jpg
+  - image_path: assets/img/Syringe-Holder-End-Support-Drawing.jpg
+  - image_path: assets/img/Syringe-Holder-End-Support-pt-2-Drawing.jpg
 ---
 
 # Features
@@ -41,8 +23,8 @@ gallery:
 * **Critical Medical Applications:** In healthcare, syringe pumps are widely used for the intravenous administration of fluids, medications, and nutrients to patients, maintaining safety and dosage integrity.
 * **Cost Efficiency for Broader Access:** With most syringe pumps priced between $500 and $6,000, the development of affordable alternatives is vital. Low-cost syringe pumps can provide essential functionality in resource-limited settings and scenarios where high-end devices are not practical. This combination of precision, versatility, and cost-conscious design makes syringe pumps indispensable tools in both medical and scientific fields.
 
-## CAD Model
+# CAD Model
 
-<iframe src="https://a360.co/42rYNsl" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://a360.co/42rYNsl" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
-{% include gallery caption="Large Format Syringe Pump Gallery" %}
+{% include gallery caption="Syringe Pump Gallery" %}
