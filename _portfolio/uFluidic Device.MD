@@ -5,9 +5,9 @@ header:
   image: /assets/img/Linear Actuator Assembly Side View.png
   teaser: /assets/img/Linear Actuator Assembly Render Front.jpg
 gallery:
-  - url: /assets/img/Syringe Pump Top Down.jpg
-    image_path: /assets/img/Syringe Pump Top Down.jpg
-    alt: "Syringe Pump Top Down View"
+  - url: /assets/img/image0 (1).jpeg
+    image_path: /assets/img/image0 (1).jpeg
+    alt: "uFluidic Device Mold"
   - url: /assets/img/Syringe Pump Circuit Diagram.jpg
     image_path: /assets/img/Syringe Pump Circuit Diagram.jpg
     alt: "Syringe Pump Circuit Diagram"
