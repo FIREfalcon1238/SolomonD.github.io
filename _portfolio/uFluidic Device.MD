@@ -1,6 +1,6 @@
 ---
 title: "uFluidic Device"
-excerpt: "A uFluidic Device"
+excerpt: "19 x 69 mm uFluidic Device sorting particles in the size range of 125 μm - 500 μm"
 header:
   image: /assets/img/Linear Actuator Assembly Side View.png
   teaser: /assets/img/Linear Actuator Assembly Render Front.jpg
