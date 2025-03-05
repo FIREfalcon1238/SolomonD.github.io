@@ -26,12 +26,12 @@ Microfluidic devices are small-scale systems that manipulate fluids in channels 
 **What is Pinched Flow Fractionation (PFF) and How Does It Work?**
 Pinched Flow Fractionation (PFF) is a microfluidic technique used for continuous size-based separation of particles. It utilizes a unique laminar flow profile within a microchannel to align and fractionate particles without the need for external forces (e.g., electric or magnetic fields).
 
-**Principle of PFF.**
+**Principle of PFF**
 * Flow Focusing: A sample fluid containing particles is introduced into a microchannel where a secondary fluid (without particles) is used to push the sample toward one sidewall in a narrow, pinched segment.
 * Size-Based Separation: As the fluid enters a broader section of the channel, the laminar flow expands, and particles spread out based on their size. Larger particles experience a greater shift toward the center, while smaller particles remain closer to the sidewall.
 * Collection of Separated Particles: The microchannel often has multiple outlets where particles are collected based on their final positions.
 
-**Advantages of PFF.**
+**Advantages of PFF**
 * Continuous processing, unlike traditional batch separation techniques.
 * No need for external forces, reducing system complexity.
 * High precision in size-based sorting, applicable to biological and industrial samples.
@@ -71,25 +71,25 @@ To seal the PDMS microchannels and create a functional microfluidic device, the 
 
 1. **Why Are Resin-Printed Molds Coated with Parylene Prior to Casting PDMS?**
 Resin-printed molds are coated with Parylene before casting PDMS to improve demolding efficiency and prevent unwanted adhesion. Parylene is a chemically inert, biocompatible polymer applied through chemical vapor deposition (CVD), forming a thin, uniform layer that offers several benefits:
-* **Anti-Adhesion**: PDMS can adhere to the surface of resin-printed molds, making it difficult to peel off cleanly. Parylene provides a non-stick, hydrophobic surface that facilitates easy demolding.
-* **Surface Smoothing**: The coating smooths out imperfections on the mold’s surface, ensuring well-defined microfluidic features with minimal roughness.
-* **Durability and Reusability**: The Parylene layer protects the mold from repeated use, preventing wear and deformation over multiple castings.
-* **Chemical Resistance**: It prevents unwanted reactions between PDMS and uncured residues in the mold, ensuring the PDMS replica maintains high fidelity.
+* PDMS can adhere to the surface of resin-printed molds, making it difficult to peel off cleanly. Parylene provides a non-stick, hydrophobic surface that facilitates easy demolding.
+* The coating smooths out imperfections on the mold’s surface, ensuring well-defined microfluidic features with minimal roughness.
+* The Parylene layer protects the mold from repeated use, preventing wear and deformation over multiple castings.
+* It prevents unwanted reactions between PDMS and uncured residues in the mold, ensuring the PDMS replica maintains high fidelity.
 
 2. **Hypothetical Applications of the Microfluidic Mixer or Sorter.**
 A microfluidic mixer or particle sorter has various applications in biomedical, chemical, and environmental research. Some potential applications include:
-* **Cell Sorting for Biomedical Diagnostics**: Separation of cancer cells from blood samples for early detection.
-* **Nanoparticle Separation**: Sorting of engineered nanoparticles for drug delivery.
-* **Environmental Monitoring**: Detecting and separating microplastics from water samples.
-* **Protein or DNA Purification**: Sorting biomolecules based on size for research and pharmaceutical applications.
-* **Point-of-Care Diagnostics**: Using on-chip sorting to process biological samples for rapid disease detection.
+* Separation of cancer cells from blood samples for early detection.
+* Sorting of engineered nanoparticles for drug delivery.
+* Detecting and separating microplastics from water samples.
+* Sorting biomolecules based on size for research and pharmaceutical applications.
+* Using on-chip sorting to process biological samples for rapid disease detection.
 
 3. **Why Is the Geometry Conducive to Sorting?**
 The efficiency of the sorting process depends on the microchannel's geometry, including:
-* **Pinch Width (~50 µm)**: Forces particles to align against one wall before entering the expansion region, ensuring controlled size-dependent deflection.
-* **Expansion Width (~1 mm)**: Allows particles to spread out based on size and flow characteristics.
-* **Outlet Widths (100–300 µm)**: Designed to collect separated particle streams with minimal cross-mixing.
-* **Port Locations**: The placement of sample and buffer inlets controls flow alignment and ensures particles enter the sorting region consistently. The gradual expansion of the channel amplifies small differences in particle positions, which results in precise size-based sorting.
+* Forces particles to align against one wall before entering the expansion region, ensuring controlled size-dependent deflection.
+* Allows particles to spread out based on size and flow characteristics.
+* Designed to collect separated particle streams with minimal cross-mixing.
+* The placement of sample and buffer inlets controls flow alignment and ensures particles enter the sorting region consistently. The gradual expansion of the channel amplifies small differences in particle positions, which results in precise size-based sorting.
 
 4. **Steps Taken to Ensure Equal Flow Distribution at Outlets.**
 To maintain uniform flow rates at each outlet and prevent disruptions:
@@ -100,10 +100,10 @@ To maintain uniform flow rates at each outlet and prevent disruptions:
 
 5. **Future Improvements for Sorting Efficiency.**
 Based on experimental results, potential modifications include:
-* **Adjusting Pinch Width**: Narrowing the pinch segment (<50 µm) may improve initial alignment and resolution.
-* **Tuning Flow Ratios**: Modifying the sheath-to-sample flow ratio to improve particle focusing before sorting.
-* **Microchannel Coating**: Applying a hydrophobic coating to reduce particle adhesion and streamline disruptions.
-* **Curved Expansion Zone**: Instead of a sharp expansion, a gradual curved widening may reduce turbulence and improve separation accuracy.
+* Narrowing the pinch segment (<50 µm) may improve initial alignment and resolution.
+* Modifying the sheath-to-sample flow ratio to improve particle focusing before sorting.
+* Applying a hydrophobic coating to reduce particle adhesion and streamline disruptions.
+* Instead of a sharp expansion, a gradual curved widening may reduce turbulence and improve separation accuracy.
 
 ---
 
