@@ -69,37 +69,32 @@ To seal the PDMS microchannels and create a functional microfluidic device, the 
 
 # Discussion
 
-1. **Why Are Resin-Printed Molds Coated with Parylene Prior to Casting PDMS?**
-Resin-printed molds are coated with Parylene before casting PDMS to improve demolding efficiency and prevent unwanted adhesion. Parylene is a chemically inert, biocompatible polymer applied through chemical vapor deposition (CVD), forming a thin, uniform layer that offers several benefits:
+1. **Why Are Resin-Printed Molds Coated with Parylene Prior to Casting PDMS?** Resin-printed molds are coated with Parylene before casting PDMS to improve demolding efficiency and prevent unwanted adhesion. Parylene is a chemically inert, biocompatible polymer applied through chemical vapor deposition (CVD), forming a thin, uniform layer that offers several benefits:
 * PDMS can adhere to the surface of resin-printed molds, making it difficult to peel off cleanly. Parylene provides a non-stick, hydrophobic surface that facilitates easy demolding.
 * The coating smooths out imperfections on the mold’s surface, ensuring well-defined microfluidic features with minimal roughness.
 * The Parylene layer protects the mold from repeated use, preventing wear and deformation over multiple castings.
 * It prevents unwanted reactions between PDMS and uncured residues in the mold, ensuring the PDMS replica maintains high fidelity.
 
-2. **Hypothetical Applications of the Microfluidic Mixer or Sorter.**
-A microfluidic mixer or particle sorter has various applications in biomedical, chemical, and environmental research. Some potential applications include:
+2. **Hypothetical Applications of the Microfluidic Mixer or Sorter.** A microfluidic mixer or particle sorter has various applications in biomedical, chemical, and environmental research. Some potential applications include:
 * Separation of cancer cells from blood samples for early detection.
 * Sorting of engineered nanoparticles for drug delivery.
 * Detecting and separating microplastics from water samples.
 * Sorting biomolecules based on size for research and pharmaceutical applications.
 * Using on-chip sorting to process biological samples for rapid disease detection.
 
-3. **Why Is the Geometry Conducive to Sorting?**
-The efficiency of the sorting process depends on the microchannel's geometry, including:
+3. **Why Is the Geometry Conducive to Sorting?** The efficiency of the sorting process depends on the microchannel's geometry, including:
 * Forces particles to align against one wall before entering the expansion region, ensuring controlled size-dependent deflection.
 * Allows particles to spread out based on size and flow characteristics.
 * Designed to collect separated particle streams with minimal cross-mixing.
 * The placement of sample and buffer inlets controls flow alignment and ensures particles enter the sorting region consistently. The gradual expansion of the channel amplifies small differences in particle positions, which results in precise size-based sorting.
 
-4. **Steps Taken to Ensure Equal Flow Distribution at Outlets.**
-To maintain uniform flow rates at each outlet and prevent disruptions:
-* **Symmetric Outlet Design**: Each outlet has equal widths and lengths to ensure even resistance and prevent biased flow.
-* **Controlled Flow Ratios**: The ratio of sheath flow to sample flow is optimized to maintain consistent focusing of particles.
-* **Minimized Pressure Differences**: The outlets are positioned equidistant from the expansion region to reduce pressure gradients.
-* **Computational Fluid Dynamics (CFD) Simulations**: Used to verify streamline integrity and optimize flow balance.
+4. **Steps Taken to Ensure Equal Flow Distribution at Outlets.** To maintain uniform flow rates at each outlet and prevent disruptions:
+* Each outlet has equal widths and lengths to ensure even resistance and prevent biased flow.
+* The ratio of sheath flow to sample flow is optimized to maintain consistent focusing of particles.
+* The outlets are positioned equidistant from the expansion region to reduce pressure gradients.
+* Used to verify streamline integrity and optimize flow balance.
 
-5. **Future Improvements for Sorting Efficiency.**
-Based on experimental results, potential modifications include:
+5. **Future Improvements for Sorting Efficiency.** Based on experimental results, potential modifications include:
 * Narrowing the pinch segment (<50 µm) may improve initial alignment and resolution.
 * Modifying the sheath-to-sample flow ratio to improve particle focusing before sorting.
 * Applying a hydrophobic coating to reduce particle adhesion and streamline disruptions.
