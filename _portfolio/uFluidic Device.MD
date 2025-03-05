@@ -8,9 +8,6 @@ gallery:
   - url: /assets/img/image0 (1).jpeg
     image_path: /assets/img/image0 (1).jpeg
     alt: "uFluidic Device Mold"
-  - url: /assets/img/Syringe Pump Circuit Diagram.jpg
-    image_path: /assets/img/Syringe Pump Circuit Diagram.jpg
-    alt: "Syringe Pump Circuit Diagram"
 
 ---
 
