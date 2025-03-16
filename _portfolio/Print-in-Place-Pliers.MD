@@ -101,7 +101,7 @@ To seal the PDMS microchannels and create a functional microfluidic device, the 
 
 # Multimedia
 
-<iframe src="https://a360.co/43haqTf" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://https://a360.co/3FJFIrX" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 {% include gallery caption="uFluidic Device" %}
 
