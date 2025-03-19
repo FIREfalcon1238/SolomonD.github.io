@@ -8,13 +8,13 @@ gallery:
   - url: assets/img/Pliers.png
     image_path: assets/img/Pliers.png
     alt: "Pliers Diagram"
-- url: assets/img/IMG_9189.gif
+  - url: assets/img/IMG_9189.gif
     image_path: assets/img/IMG_9189.gif
     alt: "Working Pliers"
-- url: assets/img/IMG_9185.gif
+  - url: assets/img/IMG_9185.gif
     image_path: assets/img/IMG_9185.gif
     alt: "Pliers Picking Up a Resistor"
-- url: assets/img/IMG_9178.jpeg
+  - url: assets/img/IMG_9178.jpeg
     image_path: assets/img/IMG_9178.jpeg
     alt: "Previous Iteration Only Using PLA"
 
