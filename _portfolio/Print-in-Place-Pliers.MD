@@ -1,3 +1,4 @@
+---
 
 title: "3D Printed Print-in-Place Pliers"
 excerpt: "A print-in-place (PIP) 3D printed pliers, utilizing PLA & TPU, designed to function straight out of the printer with minimal post-processing"
