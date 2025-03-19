@@ -1,13 +1,22 @@
 ---
 title: "3D Printed Print-in-Place Pliers"
-excerpt: "A print-in-place (PIP) 3D printed pliers, designed to function straight out of the printer with minimal post-processing"
+excerpt: "A print-in-place (PIP) 3D printed pliers, utilizing PLA & TPU, designed to function straight out of the printer with minimal post-processing"
 header:
-  image: /assets/img/uFluidic-Model_2025-Mar-05_03-35-14AM-000_CustomizedView54203237113_png.png
-  teaser: /assets/img/uFluidic-Model_2025-Mar-05_03-35-14AM-000_CustomizedView54203237113_png.png
+  image: assets/img/IMG_9179.jpeg
+  teaser: assets/img/IMG_9179.jpeg
 gallery:
-  - url: /assets/img/image0 (1).jpeg
-    image_path: /assets/img/image0 (1).jpeg
-    alt: "uFluidic Device Mold"
+  - url: assets/img/Pliers.png
+    image_path: assets/img/Pliers.png
+    alt: "Pliers Diagram"
+- url: assets/img/IMG_9189.gif
+    image_path: assets/img/IMG_9189.gif
+    alt: "Working Pliers"
+- url: assets/img/IMG_9185.gif
+    image_path: assets/img/IMG_9185.gif
+    alt: "Pliers Picking Up a Resistor"
+- url: assets/img/IMG_9178.jpeg
+    image_path: assets/img/IMG_9178.jpeg
+    alt: "Previous Iteration Only Using PLA"
 
 ---
 
@@ -33,7 +42,7 @@ Print-in-place refers to 3D printing fully assembled objects without requiring a
 
 # CAD Model
 
-<iframe src="https://https://a360.co/3FJFIrX" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://a360.co/4bGMtXF" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 ---
 
