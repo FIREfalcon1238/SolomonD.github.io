@@ -2,13 +2,18 @@
 title: "uFluidic Device"
 excerpt: "19 x 69 mm uFluidic Device sorting particles in the size range of 125 μm - 500 μm"
 header:
-  image: /assets/img/uFluidic-Model_2025-Mar-05_03-35-14AM-000_CustomizedView54203237113_png.png
-  teaser: /assets/img/uFluidic-Model_2025-Mar-05_03-35-14AM-000_CustomizedView54203237113_png.png
+  image: assets/img/IMG_9207.jpeg
+  teaser: assets/img/IMG_9207.jpeg
 gallery:
   - url: /assets/img/image0 (1).jpeg
     image_path: /assets/img/image0 (1).jpeg
     alt: "uFluidic Device Mold"
-
+  - url: /assets/img/uFluidic-Model_2025-Mar-05_03-35-14AM-000_CustomizedView54203237113_png.png
+    image_path: /assets/img/uFluidic-Model_2025-Mar-05_03-35-14AM-000_CustomizedView54203237113_png.png
+    alt: "uFluidic Device Render"
+  - url: assets/img/IMG_9208.jpeg
+    image_path: assets/img/IMG_9208.jpeg
+    alt: "uFluidic Device IRL 2"
 ---
 
 **Overview of Microfluidic Devices.**
