@@ -3,7 +3,7 @@ title: "uFluidic Device"
 excerpt: "19 x 69 mm uFluidic Device sorting particles in the size range of 125 μm - 500 μm"
 header:
   image: assets/img/IMG_9207.jpeg
-  teaser: assets/img/IMG_9207.jpeg
+  teaser: /assets/img/uFluidic-Model_2025-Mar-05_03-35-14AM-000_CustomizedView54203237113_png.png
 gallery:
   - url: /assets/img/image0 (1).jpeg
     image_path: /assets/img/image0 (1).jpeg
