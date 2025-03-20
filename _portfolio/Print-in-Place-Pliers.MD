@@ -72,10 +72,12 @@ For best results, these print settings were used:
 * Bed Adhesion: Brim (to prevent warping)
 * Support: None (designed to be self-supporting)
 * Print Speed: 50mm/s​
+
 **Material: PLA**
 * Layer Height: 0.3mm
 * Wall Count: 3
 * Infill Density: 15%
+
 **Material: TPU**
 * Layer Height: 0.2mm
 * Wall Count: 2
