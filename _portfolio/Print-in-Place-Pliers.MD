@@ -57,7 +57,7 @@ Early iterations suffered from overly loose springs that failed to provide enoug
 * Thinning the spring arms for better flex.
 * Increasing clearance to prevent fusing.
 * Tweaking jaw angles for improved grip strength.
-* Increasing V-shaped supports to increase stiffness
+* Increasing V-shaped supports to increase stiffness.
 * Deepened the pin connection between the Pliers and V-shaped supports for a stronger connection between the two.
 
 **Pliers Specifications**
