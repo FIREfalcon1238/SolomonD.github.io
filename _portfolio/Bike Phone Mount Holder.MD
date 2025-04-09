@@ -2,18 +2,18 @@
 title: "Bike Phone Mount/Holder"
 excerpt: "A Phone Holder for Bike Handlebars, utilizing PLA, designed to function in any orientation."
 header:
-  image: assets/img/IMG_9179 (1).jpeg
-  teaser: assets/img/IMG_9179.jpeg
+  image: assets/img/Bike_Phone_Holder_2025-Apr-09_02-38-22AM-000_CustomizedView411613111_jpg.jpg
+  teaser: assets/img/Bike_Phone_Holder_2025-Apr-09_02-13-15AM-000_CustomizedView14103859916_jpg.jpg
 gallery:
-  - url: assets/img/Pliers.png
-    image_path: assets/img/Pliers.png
-    alt: "Pliers Diagram"
-  - url: assets/img/IMG_9189.gif
-    image_path: assets/img/IMG_9189.gif
-    alt: "Working Pliers"
-  - url: assets/img/IMG_9185.gif
-    image_path: assets/img/IMG_9185.gif
-    alt: "Pliers Picking Up a Resistor"
+  - url: assets/img/Bike_Phone_Holder_2025-Apr-09_01-53-05AM-000_CustomizedView344892819_jpg.jpg
+    image_path: assets/img/Bike_Phone_Holder_2025-Apr-09_01-53-05AM-000_CustomizedView344892819_jpg.jpg
+    alt: "CAD Render w/o Phone"
+  - url: assets/img/Bike_Phone_Holder_2025-Apr-09_02-38-22AM-000_CustomizedView411613111_jpg.jpg
+    image_path: assets/img/Bike_Phone_Holder_2025-Apr-09_02-38-22AM-000_CustomizedView411613111_jpg.jpg
+    alt: CAD Render w/ Phone"
+  - url: assets/img/Screenshot 2025-04-08 213616.jpg
+    image_path: assets/img/Screenshot 2025-04-08 213616.jpg
+    alt: "Cross Section of Screw Mechanism"
   - url: assets/img/IMG_9178.jpeg
     image_path: assets/img/IMG_9178.jpeg
     alt: "Previous Iteration Only Using PLA"
