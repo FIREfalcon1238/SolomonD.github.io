@@ -36,7 +36,7 @@ At the heart of this design is a threaded screw rotation mechanism. It includes 
 Throughout the process, several dimension changes were made to optimize the design for FDM 3D printing. For instance, hole diameters for screws were adjusted to account for shrinkage and over-extrusion, ensuring the threads could engage properly. Clearances were also added around interlocking parts to allow smooth rotation and assembly after printing. The clamp screws, in particular, required re-sizing to avoid overly tight fits, while still allowing the user to adjust tightness on various bike handlebar diameters.
 
 **Printing Technology & Material**
-The entire phone holder was printed using Fused Deposition Modeling (FDM) technology with PLA filament. PLA was chosen due to its:* Thinning the spring arms for better flex.
+The entire phone holder was printed using Fused Deposition Modeling (FDM) technology with PLA filament. PLA was chosen due to its:
 * High dimensional accuracy
 * Low warping tendency
 * Ease of printing
