@@ -14,9 +14,13 @@ gallery:
   - url: assets/img/Screenshot 2025-04-08 213616.jpg
     image_path: assets/img/Screenshot 2025-04-08 213616.jpg
     alt: "Cross Section of Screw Mechanism"
-  - url: assets/img/IMG_9178.jpeg
-    image_path: assets/img/IMG_9178.jpeg
-    alt: "Previous Iteration Only Using PLA"
+  - url: assets/img/IMG_9829.jpeg
+    image_path: assets/img/IMG_9829.jpeg
+    alt: "Holder on a Scooter"
+  - url: assets/img/IMG_9833 (1).gif
+    image_path: assets/img/IMG_9833 (1).gif
+    alt: "Holder on a Scooter GIF"
+
 
 ---
 
