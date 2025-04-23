@@ -32,7 +32,7 @@ gallery:
 
 ---
 
-Introduction: Solving a Real Problem with Performance Innovation
+## Introduction: Solving a Real Problem with Performance Innovation
 
 In partnership with the Tennessee Titans, this project was aimed at reimagining a core piece of flag football equipment — the belt attachment system — to eliminate the failures of Velcro-based designs. The original prototype introduced a magnetic quick-release mechanism that addressed complaints from athletes and officials: unreliable detachment, discomfort, and breakage under strain.
 
@@ -44,24 +44,26 @@ While the first physical prototypes showed promise in testing, there were still 
 The solution? Use generative design to improve both performance and comfort, making the components lighter, safer, and more robust under real-world gameplay conditions.
 
 **From Concept to Generative Design: Smarter, Stronger Components**
-Two main components were optimized:
+## Two main components were optimized:
 1. Belt-Side Attachment – anchors the magnet to the player’s belt
 2. Flag-Side Attachment – mates with the magnet and releases under a clean pull
 Both were redesigned using Autodesk Fusion 360’s Generative Design workspace, with constraints and forces applied based on how the system functions in action.
 
 **Design Logic: Forces That Define the Geometry**
 Belt-Side Attachment
-This part had to remain secure to the belt while managing several forces:
+## This part had to remain secure to the belt while managing several forces:
 * Shear force (parallel to the belt) when the flag is pulled
 * Axial magnetic retention force to keep the flag attached during running and lateral movement
 * Distributed compression force in the event a player falls or lands on it, which required a larger contact surface area to reduce injury risk
 
 **Flag-Side Attachment**
-The flag-side component carries similar force profiles but with a few key differences:
+## The flag-side component carries similar force profiles but with a few key differences:
 * It must release under a clean, angled pull, requiring a shape that balances axial force and shearing at a controlled angle
 * It needs to survive sudden torsional force or impact if a player falls or twists the flag before releasing it
 * Angle optimization was introduced in the generative setup to prevent breakage during off-axis pulls
 By accounting for angled shear, magnetic retention, and fall impact, the generated geometry ensured reliable detachment without material fatigue or failure.
+
+---
 
 ## Key Generative Design Parameters
 | Parameter                | Value                         |
@@ -73,6 +75,8 @@ By accounting for angled shear, magnetic retention, and fall impact, the generat
 | Max Displacement (XYZ)   | 0.3 mm (Z: 0.2 mm optional)   |
 | Objectives               | Minimize Mass + Structural Integrity |
 
+---
+
 ## Performance Overview
 | Metric                    | Belt Attachment | Flag Attachment |
 |---------------------------|------------------|------------------|
@@ -83,12 +87,15 @@ By accounting for angled shear, magnetic retention, and fall impact, the generat
 | Gameplay Comfort          | Improved         | Improved         |
 | Flag Reattachment Time    | ~4 seconds       | ~4 seconds       |
 
+---
+
 **Testing and Real-Use Validation**
 Once the designs were finalized:
 * FDM prototypes were printed for rapid fit testing
 * Final versions were printed via SLS in PA12
 * In-game simulations were run with intentional falls, pulls, and stress cycles
 * Players found both components easier to use, more comfortable, and safer during impact
+
 ---
 
 # CAD Model
