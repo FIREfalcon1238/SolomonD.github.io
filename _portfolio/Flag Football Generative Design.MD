@@ -1,4 +1,3 @@
----
 title: "Flag Football Attachment Generative Design"
 excerpt: "A Fusion 360 Generative Design on my magnet Flag Football Attachment."
 header:
@@ -20,16 +19,15 @@ gallery:
   - url: assets/img/Screenshot 2025-04-23 160429.jpg
     image_path: assets/img/Screenshot 2025-04-23 160429.jpg
     alt: "Gen Design CAD Mate"
--   url: assets/img/Screenshot 2025-04-23 160618.jpg
+  - url: assets/img/Screenshot 2025-04-23 160618.jpg
     image_path: assets/img/Screenshot 2025-04-23 160618.jpg
     alt: "Gen Design CAD Comparisons"
   - url: assets/img/Screenshot 2025-04-23 160738.jpg
     image_path: assets/img/Screenshot 2025-04-23 160738.jpg
     alt: "Gen Design CAD Mate Comparisons"
-  - url: assets/img/Screenshot 2025-04-23 160429.jpg
-    image_path: assets/img/Screenshot 2025-04-23 160429.jpg
-    alt: "Gen Design CAD Mate"
-
+  - url: assets/img/IMG_0451.GIF
+    image_path: assets/img/IMG_0451.GIF
+    alt: "Pulling of Flag"
 ---
 
 Introduction: Solving a Real Problem with Performance Innovation
@@ -96,6 +94,7 @@ Once the designs were finalized:
 <iframe src="https://a360.co/4lKqQu6" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 <iframe src="https://a360.co/4cm0aLU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+
 ---
 
 **Testing and Real-Use Validation**
