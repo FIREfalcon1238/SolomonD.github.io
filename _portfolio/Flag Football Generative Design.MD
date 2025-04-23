@@ -43,20 +43,20 @@ While the first physical prototypes showed promise in testing, there were still 
 * Weak resistance to twisting and angled forces
 The solution? Use generative design to improve both performance and comfort, making the components lighter, safer, and more robust under real-world gameplay conditions.
 
-## From Concept to Generative Design: Smarter, Stronger Components
+## From Concept to Generative Design: Smarter, Stronger Components | 
 **Two main components were optimized:**
 1. Belt-Side Attachment – anchors the magnet to the player’s belt
 2. Flag-Side Attachment – mates with the magnet and releases under a clean pull
 Both were redesigned using Autodesk Fusion 360’s Generative Design workspace, with constraints and forces applied based on how the system functions in action.
 
-## Design Logic: Forces That Define the Geometry
-**Belt-Side Attachment**
+## Design Logic: Forces That Define the Geometry | 
+**Belt-Side Attachment | **
 **This part had to remain secure to the belt while managing several forces:**
 * Shear force (parallel to the belt) when the flag is pulled
 * Axial magnetic retention force to keep the flag attached during running and lateral movement
 * Distributed compression force in the event a player falls or lands on it, which required a larger contact surface area to reduce injury risk
 
-## Flag-Side Attachment
+## Flag-Side Attachment |
 **The flag-side component carries similar force profiles but with a few key differences:**
 * It must release under a clean, angled pull, requiring a shape that balances axial force and shearing at a controlled angle
 * It needs to survive sudden torsional force or impact if a player falls or twists the flag before releasing it
@@ -106,7 +106,6 @@ By accounting for angled shear, magnetic retention, and fall impact, the generat
 
 ---
 
-## Testing and Real-Use Validation
 **Using generative design not only reduced material but also allowed geometry to form around the way force flows through the part, which traditional CAD modeling couldn't replicate easily. It was especially helpful in:** 
 * Preventing overdesign
 * Customizing force paths for durability
