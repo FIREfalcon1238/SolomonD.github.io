@@ -50,8 +50,8 @@ The solution? Use generative design to improve both performance and comfort, mak
 Both were redesigned using Autodesk Fusion 360’s Generative Design workspace, with constraints and forces applied based on how the system functions in action.
 
 ## Design Logic: Forces That Define the Geometry | 
-**Belt-Side Attachment | **
-**This part had to remain secure to the belt while managing several forces:**
+Belt-Side Attachment |
+This part had to remain secure to the belt while managing several forces:
 * Shear force (parallel to the belt) when the flag is pulled
 * Axial magnetic retention force to keep the flag attached during running and lateral movement
 * Distributed compression force in the event a player falls or lands on it, which required a larger contact surface area to reduce injury risk
