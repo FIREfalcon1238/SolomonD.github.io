@@ -63,7 +63,7 @@ The flag-side component carries similar force profiles but with a few key differ
 * Angle optimization was introduced in the generative setup to prevent breakage during off-axis pulls
 By accounting for angled shear, magnetic retention, and fall impact, the generated geometry ensured reliable detachment without material fatigue or failure.
 
-**Key Generative Design Parameters**
+## Key Generative Design Parameters
 | Parameter                | Value                         |
 |--------------------------|-------------------------------|
 | Material                 | PA12 Nylon (SLS)              |
@@ -73,7 +73,7 @@ By accounting for angled shear, magnetic retention, and fall impact, the generat
 | Max Displacement (XYZ)   | 0.3 mm (Z: 0.2 mm optional)   |
 | Objectives               | Minimize Mass + Structural Integrity |
 
-**Performance Overview**
+## Performance Overview
 | Metric                    | Belt Attachment | Flag Attachment |
 |---------------------------|------------------|------------------|
 | Original Mass             | 22.3 g           | 18.7 g           |
