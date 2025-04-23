@@ -1,68 +1,109 @@
 ---
-title: "Bike Phone Mount/Holder"
-excerpt: "A Phone Holder for Bike Handlebars, utilizing PLA, designed to function in any orientation."
+title: "Flag Football Attachment Generative Design"
+excerpt: "A Fusion 360 Generative Design on my magnet Flag Football Attachment."
 header:
-  image: assets/img/Bike_Phone_Holder_2025-Apr-09_02-38-22AM-000_CustomizedView411613111_jpg.jpg
-  teaser: assets/img/Bike_Phone_Holder_2025-Apr-09_02-13-15AM-000_CustomizedView14103859916_jpg.jpg
+  image: assets/img/1.jpg
+  teaser: assets/img/3.jpg
 gallery:
-  - url: assets/img/Bike_Phone_Holder_2025-Apr-09_01-53-05AM-000_CustomizedView344892819_jpg.jpg
-    image_path: assets/img/Bike_Phone_Holder_2025-Apr-09_01-53-05AM-000_CustomizedView344892819_jpg.jpg
-    alt: "CAD Render w/o Phone"
-  - url: assets/img/Bike_Phone_Holder_2025-Apr-09_02-38-22AM-000_CustomizedView411613111_jpg.jpg
-    image_path: assets/img/Bike_Phone_Holder_2025-Apr-09_02-38-22AM-000_CustomizedView411613111_jpg.jpg
-    alt: CAD Render w/ Phone"
-  - url: assets/img/Screenshot 2025-04-08 213616.jpg
-    image_path: assets/img/Screenshot 2025-04-08 213616.jpg
-    alt: "Cross Section of Screw Mechanism"
-  - url: assets/img/IMG_9829.jpeg
-    image_path: assets/img/IMG_9829.jpeg
-    alt: "Holder on a Scooter"
-  - url: assets/img/IMG_9833 (1).gif
-    image_path: assets/img/IMG_9833 (1).gif
-    alt: "Holder on a Scooter GIF"
-
+  - url: assets/img/4.jpg
+    image_path: assets/img/4.jpg
+    alt: "Force Philosophy"
+  - url: assets/img/Screenshot 2025-04-23 160227.jpg
+    image_path: assets/img/Screenshot 2025-04-23 160227.jpg
+    alt: "Original CAD"
+  - url: assets/img/Screenshot 2025-04-23 160302.jpg
+    image_path: assets/img/Screenshot 2025-04-23 160302.jpg
+    alt: "Original CAD Mate"
+  - url: assets/img/Screenshot 2025-04-23 160401.jpg
+    image_path: assets/img/Screenshot 2025-04-23 160401.jpg
+    alt: "Gen Design CAD"
+  - url: assets/img/Screenshot 2025-04-23 160429.jpg
+    image_path: assets/img/Screenshot 2025-04-23 160429.jpg
+    alt: "Gen Design CAD Mate"
+-   url: assets/img/Screenshot 2025-04-23 160618.jpg
+    image_path: assets/img/Screenshot 2025-04-23 160618.jpg
+    alt: "Gen Design CAD Comparisons"
+  - url: assets/img/Screenshot 2025-04-23 160738.jpg
+    image_path: assets/img/Screenshot 2025-04-23 160738.jpg
+    alt: "Gen Design CAD Mate Comparisons"
+  - url: assets/img/Screenshot 2025-04-23 160429.jpg
+    image_path: assets/img/Screenshot 2025-04-23 160429.jpg
+    alt: "Gen Design CAD Mate"
 
 ---
 
-3D-Printed Bike Phone Holder Design
+Introduction: Solving a Real Problem with Performance Innovation
 
-**Top-Down Modeling & Its Role**
-This phone holder design leveraged top-down modeling, a technique where the overall system is conceptualized first, and individual components are created with reference to each other. This method ensured that all parts of the phone holder assembly—clamp, rotational joint, and phone grip—fit together seamlessly from the start.
-By referencing common geometry and setting master sketches at the top level, this approach allowed for adjustments to be made at the assembly level without causing mismatches between parts. For instance, if the phone dimensions or bar diameter changed, it was simple to propagate those updates across the entire assembly. Top-down modeling gave me better control over clearances, alignment, and proportions during every step of the design.
+In partnership with the Tennessee Titans, this project was aimed at reimagining a core piece of flag football equipment — the belt attachment system — to eliminate the failures of Velcro-based designs. The original prototype introduced a magnetic quick-release mechanism that addressed complaints from athletes and officials: unreliable detachment, discomfort, and breakage under strain.
 
-**Design Rationale**
-The goal was to create a user-friendly phone holder that could quickly switch between portrait and landscape orientations while being easy to mount and adjust on a bike. Many phone holders on the market require tools to reorient or reposition. My approach incorporated a screw rotation mechanism that allows the user to rotate the phone holder freely with minimal effort, ensuring both security and flexibility during use. The design is minimal yet functional, with ergonomic knobs for easy hand tightening.
+While the first physical prototypes showed promise in testing, there were still key challenges to overcome:
+* Accidental flag detachment
+* Poor durability under player contact
+* Difficult flag reattachment mid-game
+* Weak resistance to twisting and angled forces
+The solution? Use generative design to improve both performance and comfort, making the components lighter, safer, and more robust under real-world gameplay conditions.
 
-**Rotation Mechanism**
-At the heart of this design is a threaded screw rotation mechanism. It includes a ribbed dial that connects the phone grip to the clamp arm, allowing the user to twist and adjust the orientation. The screw provides firm resistance, preventing unwanted shifts while riding. The mechanism works reliably, maintaining angle stability over time due to well-fitted threads and material friction from PLA.
+**From Concept to Generative Design: Smarter, Stronger Components**
+Two main components were optimized:
+1. Belt-Side Attachment – anchors the magnet to the player’s belt
+2. Flag-Side Attachment – mates with the magnet and releases under a clean pull
+Both were redesigned using Autodesk Fusion 360’s Generative Design workspace, with constraints and forces applied based on how the system functions in action.
 
-**Dimensional Adjustments for 3D Printing**
-Throughout the process, several dimension changes were made to optimize the design for FDM 3D printing. For instance, hole diameters for screws were adjusted to account for shrinkage and over-extrusion, ensuring the threads could engage properly. Clearances were also added around interlocking parts to allow smooth rotation and assembly after printing. The clamp screws, in particular, required re-sizing to avoid overly tight fits, while still allowing the user to adjust tightness on various bike handlebar diameters.
+**Design Logic: Forces That Define the Geometry**
+Belt-Side Attachment
+This part had to remain secure to the belt while managing several forces:
+* Shear force (parallel to the belt) when the flag is pulled
+* Axial magnetic retention force to keep the flag attached during running and lateral movement
+* Distributed compression force in the event a player falls or lands on it, which required a larger contact surface area to reduce injury risk
 
-**Printing Technology & Material**
-The entire phone holder was printed using Fused Deposition Modeling (FDM) technology with PLA filament. PLA was chosen due to its:
-* High dimensional accuracy
-* Low warping tendency
-* Ease of printing
-* Sufficient durability for day-to-day use
-PLA made it easy to print complex geometries like threads and curved grips without requiring post-processing or support removal hassles. The relatively quick print time also made it ideal for rapid prototyping and testing.
+**Flag-Side Attachment**
+The flag-side component carries similar force profiles but with a few key differences:
+* It must release under a clean, angled pull, requiring a shape that balances axial force and shearing at a controlled angle
+* It needs to survive sudden torsional force or impact if a player falls or twists the flag before releasing it
+* Angle optimization was introduced in the generative setup to prevent breakage during off-axis pulls
+By accounting for angled shear, magnetic retention, and fall impact, the generated geometry ensured reliable detachment without material fatigue or failure.
 
-**Assembly and Use Instructions**
-* Clamp Assembly: Begin by twisting the clamp knob to open the mechanism. Place the clamp around your bike handlebar and secure it by tightening the screws into the bottom holes until snug.
-* Attach Phone Holder: Slide the phone holder's threaded socket onto the clamp screw. Twist the center knob to secure the grip's position.
-* Adjust Orientation: To switch between portrait and landscape, gently twist the holder back and forth. The rotation mechanism will lock your phone in place once aligned.
-* Insert Phone: Slide your phonee down from the top to fit your phone and hold securely.
+**Key Generative Design Parameters**
+| Parameter                | Value                         |
+|--------------------------|-------------------------------|
+| Material                 | PA12 Nylon (SLS)              |
+| Manufacturing Method     | Additive – Unrestricted (SLS) |
+| Min Wall Thickness       | 1.0 mm                        |
+| Overhang Angle           | 45°                           |
+| Max Displacement (XYZ)   | 0.3 mm (Z: 0.2 mm optional)   |
+| Objectives               | Minimize Mass + Structural Integrity |
 
-**Printing Summary**
-All parts were printed using PLA filament on an FDM printer. This was the best option for this project due to its strength, reliability, and ease of use. No supports were needed, and each component printed with minimal warping and high surface quality.
+**Performance Overview**
+| Metric                    | Belt Attachment | Flag Attachment |
+|---------------------------|------------------|------------------|
+| Original Mass             | 22.3 g           | 18.7 g           |
+| Generative Mass           | 12.1 g           | 10.2 g           |
+| Pull Test (Shear/Peel)    | Passed @ 22N     | Passed @ 22N     |
+| Drop & Torsion Durability | Passed           | Passed           |
+| Gameplay Comfort          | Improved         | Improved         |
+| Flag Reattachment Time    | ~4 seconds       | ~4 seconds       |
 
+**Testing and Real-Use Validation**
+Once the designs were finalized:
+* FDM prototypes were printed for rapid fit testing
+* Final versions were printed via SLS in PA12
+* In-game simulations were run with intentional falls, pulls, and stress cycles
+* Players found both components easier to use, more comfortable, and safer during impact
 ---
 
 # CAD Model
 
-<iframe src="https://a360.co/4cm0aLU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://a360.co/4lKqQu6" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
+<iframe src="https://a360.co/4cm0aLU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 ---
 
-{% include gallery caption="Bike Phone Mount/Holder" %}
+**Testing and Real-Use Validation**
+Using generative design not only reduced material but also allowed geometry to form around the way force flows through the part, which traditional CAD modeling couldn't replicate easily. It was especially helpful in: 
+* Preventing overdesign
+* Customizing force paths for durability
+* Enabling additive-only geometries that feel almost organic
+
+
+{% include gallery caption="Generative Design" %}
 
