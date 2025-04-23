@@ -28,6 +28,7 @@ gallery:
   - url: assets/img/IMG_0451.GIF
     image_path: assets/img/IMG_0451.GIF
     alt: "Pulling of Flag"
+
 ---
 
 Introduction: Solving a Real Problem with Performance Innovation
