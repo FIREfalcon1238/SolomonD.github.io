@@ -66,26 +66,22 @@ By accounting for angled shear, magnetic retention, and fall impact, the generat
 ---
 
 ## Key Generative Design Parameters
-| Parameter                | Value                         |
-|--------------------------|-------------------------------|
-| Material                 | PA12 Nylon (SLS)              |
-| Manufacturing Method     | Additive – Unrestricted (SLS) |
-| Min Wall Thickness       | 1.0 mm                        |
-| Overhang Angle           | 45°                           |
-| Max Displacement (XYZ)   | 0.3 mm (Z: 0.2 mm optional)   |
-| Objectives               | Minimize Mass + Structural Integrity |
+The parts were designed for fabrication using PA12 Nylon, a material well-suited for Selective Laser Sintering (SLS) due to its strength and flexibility. The manufacturing method selected was Additive – Unrestricted, leveraging the support-free nature of SLS to produce organic geometries without the need for post-processing supports.
+
+To ensure durability while keeping the structure lightweight, a minimum wall thickness of 1.0 mm was enforced across both components. An overhang angle of 45° was used to help guide the generation of stable features, even though SLS allows for much more freedom.
+
+The maximum allowable displacement was set to 0.3 mm in all directions, with a slightly tighter 0.2 mm limit on the Z-axis to maintain stiffness in the pull direction. The primary design objective was to minimize mass while ensuring structural integrity during flag pulls and potential player impacts.
 
 ---
 
 ## Performance Overview
-| Metric                    | Belt Attachment | Flag Attachment |
-|---------------------------|------------------|------------------|
-| Original Mass             | 22.3 g           | 18.7 g           |
-| Generative Mass           | 12.1 g           | 10.2 g           |
-| Pull Test (Shear/Peel)    | Passed @ 22N     | Passed @ 22N     |
-| Drop & Torsion Durability | Passed           | Passed           |
-| Gameplay Comfort          | Improved         | Improved         |
-| Flag Reattachment Time    | ~4 seconds       | ~4 seconds       |
+The redesigned attachments demonstrated significant improvements over the original versions in both mass and performance.
+
+The belt attachment was reduced from 22.3 grams to 12.1 grams, while the flag attachment dropped from 18.7 grams to 10.2 grams — nearly a 45% weight reduction in both cases.
+
+In terms of mechanical performance, both components successfully passed a pull test at 22N, simulating real-world shear and peel forces experienced during gameplay. They also withstood torsional loads and drops during testing, confirming that the organic geometry maintained its strength under stress.
+
+Gameplay comfort was improved due to the slimmed-down form factor and better integration with the belt and flag materials. Players reported a more streamlined feel and reduced bulk. Finally, flag reattachment time was cut nearly in half, from around 9 seconds to just 4 seconds, making the design not only stronger and lighter but more functional and intuitive.
 
 ---
 
